@@ -22,7 +22,7 @@ def calcular_desconto():
     valor_desconto = valor_compra * percentual_desconto
     valor_final = valor_compra - valor_desconto
 
-    # Exibe os resultados formatados para o usuário
+    # Exibe os resultados para o usuário
     print("\n" + "=" * 30)
     print("RESUMO DA COMPRA")
     print("=" * 30)
